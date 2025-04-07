@@ -1,0 +1,9 @@
+efficientnet_pytorch==0.7.1
+kagglehub==0.3.11
+matplotlib==3.8.4
+numpy==2.2.4
+Pillow==11.1.0
+scikit_learn==1.6.1
+seaborn==0.13.2
+torch==2.6.0
+torchvision==0.21.0
